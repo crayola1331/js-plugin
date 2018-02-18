@@ -13,7 +13,6 @@
 
 </head>
 
-<!-- demo를 따라 만듬 -->
 <body>
 
 <h1>Add widgets dynamically</h1>
